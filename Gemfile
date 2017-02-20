@@ -28,18 +28,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'rails-assets-leaflet', source: 'https://rails-assets.org'
 gem 'tachyons-rails', '4.6.0'
 
-# #ACTIVEADMIN
-# gem 'activeadmin', github: 'activeadmin'
-# gem 'activemodel-serializers-xml', github: 'rails/activemodel-serializers-xml'
-# # gem 'inherited_resources', git: 'https://github.com/activeadmin/inherited_resources'
-# gem 'draper', github: 'audionerd/draper', branch: 'rails5'
-# gem 'pundit'
-# gem 'devise'
-# gem 'paperclip', '~> 5.1'
-# gem 'mini_magick'
-# gem 'aws-sdk'
-# gem 'figaro'
-
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
